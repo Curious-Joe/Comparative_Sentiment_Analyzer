@@ -1,0 +1,12 @@
+name: Comparative_sentiment_analyzer
+title: Comparative_sentiment_analyzer
+username:
+account: curiousjoe01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 268159
+bundleId: 1201745
+url: https://curiousjoe01.shinyapps.io/Comparative_sentiment_analyzer/
+when: 1517433825.43485
+asMultiple: FALSE
+asStatic: FALSE
